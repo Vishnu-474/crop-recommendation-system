@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model & scaler files
+*.pkl
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Optional: system files
+.DS_Store
+Thumbs.db
