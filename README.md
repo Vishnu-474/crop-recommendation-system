@@ -21,3 +21,9 @@ A machine learning based crop recommendation system that suggests the best crops
 pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run streamlit_ui.py
+```
+## 🌿 Live Demo
+
+You can try the **Smart Crop Recommendation** app live here:  
+
+[🚀 Open Streamlit App](https://crop-recommendation-system-474.streamlit.app/)
