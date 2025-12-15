@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 import joblib
 #Loading_Model_and_scaler
-model = joblib.load("crop_model.pkl")
-scaler = joblib.load("scaler.pkl")
+model = joblib.load("models/crop_model.pkl")
+scaler = joblib.load("models/scaler.pkl")
 #Crop_label_dictionary
 crop_dict = {
     1: '🌾 Rice', 2: '🌽 Maize', 3: '🧵 Jute', 4: '👕 Cotton', 5: '🥥 Coconut',
